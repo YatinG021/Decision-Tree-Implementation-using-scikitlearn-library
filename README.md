@@ -150,6 +150,7 @@ Displays the top features influencing the Decision Tree's classification, highli
 
 ### 2. Decision Tree Structure Diagram
 Shows the trained Decision Tree's decision paths and feature splits, making the model's classification logic transparent and interpretable.
+<img width="1957" height="1560" alt="Image" src="https://github.com/user-attachments/assets/623cc116-0783-40ca-b571-a3b2de81974d" />
 
 ### 3. Test Set Prediction Dot Plot
 Visualizes the distribution of prediction results across the test dataset, helping identify patterns or potential outliers in model performance.
