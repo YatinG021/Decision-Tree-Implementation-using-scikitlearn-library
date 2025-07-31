@@ -146,6 +146,7 @@ This project demonstrates a comprehensive machine learning workflow for breast c
 
 ### 1. Feature Importance Bar Chart
 Displays the top features influencing the Decision Tree's classification, highlighting "mean concave points" as the most significant for breast cancer detection.
+[<img width="676" height="596" alt="Image" src="https://github.com/user-attachments/assets/d55d9c75-8db3-407c-879f-ceaeaa38700f" />]
 
 ### 2. Decision Tree Structure Diagram
 Shows the trained Decision Tree's decision paths and feature splits, making the model's classification logic transparent and interpretable.
