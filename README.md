@@ -154,7 +154,7 @@ Shows the trained Decision Tree's decision paths and feature splits, making the 
 
 ### 3. Test Set Prediction Dot Plot
 Visualizes the distribution of prediction results across the test dataset, helping identify patterns or potential outliers in model performance.
-
+<img width="255" height="1588" alt="Image" src="https://github.com/user-attachments/assets/6302e9e3-5128-4017-a894-7096fd9ac48a" />
 
 
 
